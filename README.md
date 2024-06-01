@@ -1,6 +1,22 @@
-Spot-On is a software carnival.
+Spot-On is an open-source Encrpytion Suite for secure Chat & E-Mail, File Transfer and also Websearch in a F2F distributed URL-Database.
 
-Qt 5.15 LTS or Qt 6.5 LTS is required for Linux. All other operating systems require Qt 6.5 LTS. Have fun!
+Means: Spot-On is a Messaging and File-Transfer Application. WIth RSS you can read, search and distribute your feeds to your friends.  
+Enhanced encryption processes are invented or improved and implemented such as McEliece-Messaging (Linux), Cryptographic Calling, Zero-Knowledge-Proofs, AutoCrypt via REPLEO and EPKS, Fiasco Forwarding, POPTASTIC-Messaging over E-Mail-Servers, Chipher-Text conversion tools like Rosetta Crypto Pad and many more.  
+
+Spot-On utilized the Echo-Protocol for proxyfying and anonymizing the network, it provids end-to-end encryption (and therefore utilizes not a web-of-trust, which is only point-to-point encryption). Spot-On is in the Groupchat and for Servers compatible with Smoke Crypto Chat Messenger from F-Droid.org
+
+Install the latest Linux or Mac Version (Tree Icon) or choose the older Win32-Version (Dolphin Icon):
+
+Download Linux: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15_amd64.deb
+
+Download Win 32: https://github.com/textbrowser/spot-on/releases/download/2023.01.15/Spot-On.zip
+
+Download Mac: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15.d.dmg
+
+
+
+
+Qt 5.15 LTS or Qt 6.5 LTS is required for Linux. All other operating systems require Qt 6.5 LTS.
 
 <ul>
 <li>Alpha processors.</li>
