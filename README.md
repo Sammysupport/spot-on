@@ -1,3 +1,5 @@
+This site is open source and under a public domain license (alternatively a creative commons license), so the content or parts of it can be used in or modified for any other project or wiki.
+
 Spot-On is an open-source Encrpytion Suite for secure Chat & E-Mail, File Transfer and also Websearch in a F2F distributed URL-Database.
 
 Means: Spot-On is a Messaging and File-Transfer Application. WIth RSS you can read, search and distribute your feeds to your friends.  
