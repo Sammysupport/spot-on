@@ -1,4 +1,4 @@
-*This site is open source and under a public domain license (alternatively a creative commons license), so the content or parts of it can be used in or modified for any other project or wiki.*
+*This site is open source and under a public domain license (alternatively a creative commons license), so the content or parts of it can be used in (or modified for) any other project or wiki.*
 
 # Spot-On Encryption Suite
 
@@ -13,7 +13,7 @@ Spot-On utilized the Echo-Protocol for proxyfying and anonymizing the network, i
 
 Install the latest Linux or Mac Version (Tree Icon) or choose the older Win32-Version (Dolphin Icon):
 
-Download Linux: [https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15_amd64.deb] (https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15_amd64.deb)
+Download Linux: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15_amd64.deb
 
 Download Win 32: https://github.com/textbrowser/spot-on/releases/download/2023.01.15/Spot-On.zip
 
