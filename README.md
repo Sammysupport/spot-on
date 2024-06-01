@@ -20,8 +20,8 @@ Download Win 32: https://github.com/textbrowser/spot-on/releases/download/2023.0
 Download Mac: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15.d.dmg
 
 
-Application-Data:
-
+**Application-Data:**
+```
 Developer:	Textbrowser
 Start of Development: 2010	
 First Release:	2013
@@ -32,7 +32,7 @@ Coding Language:	C++
 Kategorie	Chat, Instant Messenger, E-Mail, Newsgroups, Anonymes/-Filesharing, Soziales Netzwerk, Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography
 License:	BSD (Free and Open Source Software)
 Website:	https://textbrowser.github.io/spot-on/
-
+```
 
 Qt 5.15 LTS or Qt 6.5 LTS is required for Linux. All other operating systems require Qt 6.5 LTS.
 
