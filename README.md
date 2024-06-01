@@ -30,9 +30,10 @@ Initial Release:      2013
 Actual Version:       Version 2023
 Latest Release:       2023
 Operating Systems:    Windows, Linux, macOS, FreeBSD and all systems cappable of Qt.
-Coding Language:      C++, Qt 5.15 LTS or Qt 6.5 LTS is required for Linux. All other operating systems require Qt 6.5 LTS.
-Categories:           Chat, Instant Messenger, E-Mail, Newsgroups, Anonymes/-Filesharing, Soziales Netzwerk,
-                      Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography
+Coding Language:      C++, Qt 5.15 LTS or Qt 6.5 LTS is required for Linux.
+                      All other operating systems require Qt 6.5 LTS.
+Categories:           Chat, Instant Messenger, E-Mail, Newsgroups, Anonymous Filesharing, Social Network,
+                      Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography, Echo-Application
 License:              BSD (Free and Open Source Software)
 Website:              https://textbrowser.github.io/spot-on/
 ```
