@@ -102,3 +102,9 @@ Website:              https://textbrowser.github.io/spot-on/
 Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation for more information.
 
 ![Spot-On](https://github.com/textbrowser/spot-on/blob/master/Wiki/spot-on-android.png)
+
+
+
+# References
+Manual:
+[Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf](https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf)
