@@ -22,17 +22,18 @@ Download Mac: https://github.com/textbrowser/spot-on/releases/download/2023.12.1
 
 **Application-Data:**
 ```
-Developer: Textbrowser
+Application-Name:     Spot-On (Encryption Suite)
+Developer:            Textbrowser
 Start of Development: 2010	
-Initial Release: 2013
-Actual Version: Version 2023
-Latest Release: 2023
-Operating Systems: Windows, Linux, macOS, FreeBSD
-Coding Language: C++
-Categories: Chat, Instant Messenger, E-Mail, Newsgroups, Anonymes/-Filesharing, Soziales Netzwerk,
-            Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography
-License:    BSD (Free and Open Source Software)
-Website:    https://textbrowser.github.io/spot-on/
+Initial Release:      2013
+Actual Version:       Version 2023
+Latest Release:       2023
+Operating Systems:    Windows, Linux, macOS, FreeBSD
+Coding Language:      C++
+Categories:           Chat, Instant Messenger, E-Mail, Newsgroups, Anonymes/-Filesharing, Soziales Netzwerk,
+                      Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography
+License:              BSD (Free and Open Source Software)
+Website:              https://textbrowser.github.io/spot-on/
 ```
 
 Qt 5.15 LTS or Qt 6.5 LTS is required for Linux. All other operating systems require Qt 6.5 LTS.
