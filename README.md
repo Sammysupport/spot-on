@@ -45,8 +45,8 @@ Website:              https://textbrowser.github.io/spot-on/
 <ul>
 <li> <b>Alpha processors:</b> Alpha Chips have been used by HP in Alpha-Servers until 2013 and are still mostly deployed in Supercomputers. Also the Alpha AXP was used by Microsoft to develop the first 64-bit version of Windows Server. The fastest Supercomputer based on Alpha processors was the ASCI-Q at Los Alamos National Laboratory and reached an Rmax of 7.727 TFLOPS. Spot-On is cappable to run on these microchips respective native 64-bit architecture.</li>
 <li><b>Cross-Plattform:</b> Spot-On runs on all systems cappable of Qt, this means e.g. Android, FreeBSD, Linux, MacOS, OS/2, OpenBSD, Windows, etc.</li>
-<li>Authenticated and encrypted SQLite and PostgreSQL URL databases.</li>
-<li>BSD license.</li>
+<li> <b>Data at Rest Encryption:</b>b> Next to Data in Transition Encryption als all Saved Data at Rest is stored in encrypted containers: Authenticated and encrypted SQLite and PostgreSQL e.g. for URL databases ensure, that on the hard disc saved data is accessible only with password.</li>
+<li><b>Open Source License: </b> Spot-On uses the open source BSD license, which refers to the Client and also to the integrated Server.</li>
 <li>Bluetooth, SCTP, TCP, UDP.</li>
 <li>Completed.</li>
 <li>Configurable thread priorities.</li>
