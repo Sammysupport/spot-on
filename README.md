@@ -29,7 +29,7 @@ Start of Development: 2010
 Initial Release:      2013
 Actual Version:       Version 2023
 Latest Release:       2023
-Operating Systems:    Windows, Linux, macOS, FreeBSD and all systems cappable of Qt.
+Operating Systems:    Android, FreeBSD, Linux, MacOS, OS/2, OpenBSD, Windows and all systems cappable of Qt.
 Coding Language:      C++, Qt 5.15 LTS or Qt 6.5 LTS is required for Linux.
                       All other operating systems require Qt 6.5 LTS.
 Categories:           Chat, Instant Messenger, E-Mail, Newsgroups, Anonymous Filesharing, Social Network,
@@ -44,7 +44,7 @@ Website:              https://textbrowser.github.io/spot-on/
 
 <ul>
 <li> <b>Alpha processors:</b> Alpha Chips have been used by HP in Alpha-Servers until 2013 and are still mostly deployed in Supercomputers. Also the Alpha AXP was used by Microsoft to develop the first 64-bit version of Windows Server. The fastest Supercomputer based on Alpha processors was the ASCI-Q at Los Alamos National Laboratory and reached an Rmax of 7.727 TFLOPS. Spot-On is cappable to run on these microchips respective native 64-bit architecture.</li>
-<li>Android, FreeBSD, Linux, MacOS, OS/2, OpenBSD, Windows.</li>
+<li><b>Cross-Plattform:</b>b> Spot-On runs on all systems cappable of Qt, this means e.g. Android, FreeBSD, Linux, MacOS, OS/2, OpenBSD, Windows, etc.</li>
 <li>Authenticated and encrypted SQLite and PostgreSQL URL databases.</li>
 <li>BSD license.</li>
 <li>Bluetooth, SCTP, TCP, UDP.</li>
