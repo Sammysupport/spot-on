@@ -1,4 +1,4 @@
-*This site is open source and under a public domain license (alternatively a creative commons license), so the content or parts of it can be used in (or modified for) any other project or wiki.*
+*This site is open source and under a public domain license (alternatively a creative commons license), so the content (or parts of it) can be used in (or modified for) any other project or wiki.*
 
 # Spot-On Encryption Suite
 
