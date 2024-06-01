@@ -29,7 +29,8 @@ Actual Version: Version 2023
 Date of latest Release: 2023
 Operating Systems:	Windows, Linux, macOS, FreeBSD
 Coding Language:	C++
-Kategorie	Chat, Instant Messenger, E-Mail, Newsgroups, Anonymes/-Filesharing, Soziales Netzwerk, Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography
+Categories	Chat, Instant Messenger, E-Mail, Newsgroups, Anonymes/-Filesharing, Soziales Netzwerk,
+Internet Relay Chat, P2P, F2F, Websearch, Encryption, Cryptography
 License:	BSD (Free and Open Source Software)
 Website:	https://textbrowser.github.io/spot-on/
 ```
