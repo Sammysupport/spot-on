@@ -22,7 +22,7 @@ Download Mac: https://github.com/textbrowser/spot-on/releases/download/2023.12.1
 
 **Application-Data:**
 ```
-Developer:    Textbrowser
+Developer:      Textbrowser
 Start of Development:    2010	
 First Release:	                2013
 Actual Version:                     Version 2023
