@@ -74,11 +74,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>GPG-lite via Rosetta:</b> Roseatta is the conversion pad to transform plaintext into ciphertext and vice versa. There are not many applications providing such a copy/paste conversion pad. Mostly symmetric keys are used. With the GPG introduction in Rosetta it is (one of) the first conversion pad(s) for ciphertext, which uses the symmetrical encryption method based on the standard of GPG. As Spot-On can be connected via bluetooth from a machine not connected to the internet, the Rosetta Encryption Pad with asymmetric GPG respective symmetric encryption is an ideal constitution of a Trusted Execution Environment (TEE) for ciphertext conversion.</li>  
 <li><b>Human Proxies:</b> Human Proxies describe a function to send a message over the Echo-Protocol not from the own node, but from the node of a friend (a human proxy). Here a Human Proxies problem or phenomenon is created based on the Echo-Protocol and its graph routes and specialities: how is it judged who the sender of the the same copy is? A mathematical (also social and philosophical) problem of graph routes beyond routing is created. </li>
 <li> <b>Individual configuration needs:</b> E.g. thread priorities are individually configurationable. Spot-On can adjust many options for individual needs of use cases of users and research models of cryptographers.</li>
-<li><b>Open Source License: </b> Spot-On uses the open source BSD license, which refers to the Client and also to the integrated Server.</li>
-
-<li><b>Socket options:</b> In addition to binding a socket to a local address or connecting it to a destination address, application programs need a method to control the socket. Application programs may also want to control the allocation of buffer space, determine if the socket allows transmission of broadcast, or control processing of out-of-band data, which is a logically independent transmission channel associated with each pair of connected stream sockets. Spot-On provides several custom socket options in this regard. </li>
-
-<li>Infinite listeners and neighbors.</li>
+<li><b>Infinite listeners and neighbors:</b> Not only the client is open source, also the server software for Spot-On is open source and the function to create a server is integratred in the application of Spot-On client, see Listeners Tab. Next to the Connection Tab for neighbour nodes, both, Listener (Server) Tab as well as Neighbours Tab allow infinite connections respective Listeners on ports and Neighbours connected for scaling. </li>
 <li>Integrated file encryption of directories and files.</li>
 <li>Living documentation.</li>
 <li>MacOS and Windows install targets: make install!</li>
@@ -86,6 +82,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li>Multitasking kernel.</li>
 <li>Native virtual keyboard.</li>
 <li>Natively compiled on ARM, Alpha, PowerPC, Sparc64, X86, X86_64.</li>
+<li><b>Open Source License: </b> Spot-On uses the open source BSD license, which refers to the Client and also to the integrated Server.</li>
 <li>Optional SSL/TLS client and server roles: ECC, RSA.</li>
 <li>P2P TCP server-less (without accept()) connections.
     SSL/TLS is supported!</li>
@@ -103,6 +100,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li>Rosetta stationery.</li>
 <li>Search engine via PostgreSQL and SQLite.</li>
 <li>Simple software firewall.</li>
+<li><b>Socket options:</b> In addition to binding a socket to a local address or connecting it to a destination address, application programs need a method to control the socket. Application programs may also want to control the allocation of buffer space, determine if the socket allows transmission of broadcast, or control processing of out-of-band data, which is a logically independent transmission channel associated with each pair of connected stream sockets. Spot-On provides several custom socket options in this regard. </li>
 <li>Socialist Millionaires Protocol.</li>
 <li>Sparc.</li>
 <li>Themes.</li>
