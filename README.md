@@ -120,5 +120,6 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 
 
 # References
-Textbrowser: Documentation of Spot-On,  https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation
-Edwards, Scott: Manual of Spot-On Encryption Suite: [Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf](https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf)
+* Textbrowser: Documentation of Spot-On,  https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation
+
+* Edwards, Scott: Manual of Spot-On Encryption Suite: [Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf](https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf)
