@@ -13,6 +13,7 @@ Spot-On utilized the Echo-Protocol for proxyfying and anonymizing the network, i
 # Download & Install
 
 **Download from the Github-project-page**
+
 Install the latest Linux or Mac Version (Tree Icon) or choose the older Win32-Version (Dolphin Icon):
 
 Download Linux: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15_amd64.deb
