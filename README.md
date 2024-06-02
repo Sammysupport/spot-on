@@ -65,11 +65,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Future-related Research and Development:</b> While the work on the client as given is completed for now, there are a lot of feature requests in the Github repositorium and as well future related ToDos in the task list of the code documentation. Currently the main focus in cooperation with the community is to set up servers for the messaging and data respective URL sharing clients, before further client improvement is conducted in the first place. Ongoing releases are updating the maintenance of the compiling process of Spot-On.</li>  
 <li> <b>Individual configuration needs:</b> E.g. thread priorities are individually configurationable. Spot-On can adjust many options for individual needs of use cases of users and research models of cryptographers.</li>
 <li><b>Open Source License: </b> Spot-On uses the open source BSD license, which refers to the Client and also to the integrated Server.</li>
-
-
-
-
-<li>Custom socket options.</li>
+<li><b>Socket options:</b> In addition to binding a socket to a local address or connecting it to a destination address, application programs need a method to control the socket. Application programs may also want to control the allocation of buffer space, determine if the socket allows transmission of broadcast, or control processing of out-of-band data, which is a logically independent transmission channel associated with each pair of connected stream sockets. Spot-On provides several custom socket options in this regard. </li>
 
 <li>DTLS.</li>
 <li>Debian packages.</li>
