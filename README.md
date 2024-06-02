@@ -38,6 +38,19 @@ License:              BSD (Free and Open Source Software)
 Website:              https://textbrowser.github.io/spot-on/
 ```
 
+# Reviews of Download-Portals
+
+* **Softpedia:* https://www.softpedia.com/get/Internet/Chat/Spot-On.shtml  
+("Rating 4.9 of 5 Stars by over 60 ratings")
+
+* **Majorgeeks** https://www.majorgeeks.com/files/details/spot_on.html
+("Spot-On Encryption Suite: for Chat, E-Mail, File Transfer & Websearch is a versatile communication app that allows you to stay connected with your contacts through several different channels. You can send instant messages, emails, and even share files with your contacts. Additionally, it lets you create a chatroom for group conversations.")
+
+* **Download.com** https://download.cnet.com/spot-on-encryption-suite-for-secure-chat-e-mail-file-transfer-filesharing-p2p-websearch/3000-2150_4-78706448.html?ex=BER-1278.1
+("Establish secure, encrypted connections with multifunctional software offering chat, email, and file sharing.")
+
+* **Apponic:** https://spot-on-encryption-suite.apponic.com/
+("Securely connects with your contacts on instant messaging, emails.")
 
 
 # Specification-List in Detail
