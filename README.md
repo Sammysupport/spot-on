@@ -48,6 +48,8 @@ Website:              https://textbrowser.github.io/spot-on/
 
 * **Apponic:** https://spot-on-encryption-suite.apponic.com/ - (*"Securely connects with your contacts on instant messaging, emails."*)
 
+* **F-Droid.org:** https://f-droid.org/de/packages/org.purple.smoke/ - (*Server and Groupchat compatible Mobile Messenger with Spot-On*)
+
 
 # Specification-List in Detail
 
