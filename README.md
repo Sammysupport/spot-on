@@ -12,7 +12,7 @@ Spot-On utilized the Echo-Protocol for proxyfying and anonymizing the network, i
 
 # Download & Install
 
-**Download from the Github-project-page**
+**Download from the Github-project-page:**
 
 Install the latest Linux or Mac Version (Tree Icon) or choose the older Win32-Version (Dolphin Icon):
 
@@ -40,7 +40,7 @@ License:              BSD (Free and Open Source Software)
 Website:              https://textbrowser.github.io/spot-on/
 ```
 
-**Reviews of Download-Portals**
+**Reviews of Download-Portals:**
 
 * **Softpedia:** https://www.softpedia.com/get/Internet/Chat/Spot-On.shtml  -  (*"Rating 4.9 of 5 Stars by over 60 ratings"*)
 
