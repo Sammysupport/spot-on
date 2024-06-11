@@ -79,18 +79,15 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Living documentation:</b> Next to the technical documentation there is also a manual as handbook, which has been published with ISBN and is open source downloadable. The wiki and further pages are living documents also extendable by users and contributing and forking projects. See descritions and tutorials in the web or write and provide your own tutorial.</li>
 <li><b>Messaging:</b> Spot-On is a chat messenger. It utilizes different open source servers, which are integrated into the application, also headless available for Linux and Android. Also regular E-Mail-Accounts and their servers can be addressed via the POPTASTIC protocol for messaging friends. The mobile Delta-Chat App derived from this function of Messaging over E-Mail-Servers via the POPTASTIC protocol.</li>
 <li><b>Multitasking kernel:</b> Spot-On utilizes a kernel, which has to be activated within the settings tab. The kernel is multi-tasking and a fast solution for all the encryption and decryption processes. If you install Spot-On with its Listener function as a server on your webserver, the multi-tasking kernel saved additional CPU-Core, because it is fast enough to serve all participants.</li>
-<li><b>Native virtual keyboard:</b> Consider your keyboard probably infected by spybot. Spot-On is ahead of this risks and has integrated an own software keybord, which is opened, if you double-click in the password field of the login page. Mouse clicks cannot reveal your password. And you think, Spot-On is onyl for spy agents of agencies? No. it is about your process to provide a safe insertation of your personal credentials. </li>
-<li><b>Natively:</b> Spot-on has been natively compiled on ARM, Alpha, PowerPC, Sparc64, X86, X86_64. Different architectures are addressed by the provided programming and Qt-Compiling for these architectures.</li>
+<li><b>Native virtual keyboard:</b> Consider your keyboard probably infected by a keyboard-checker. Spot-On is ahead of these risks and has integrated an own software keybord, which is can be opened, if you double-click in the password field of the login page. Mouse clicks cannot reveal your password. And you think, Spot-On is only for spy-agents of agencies? No. it is about a process to provide a safe insertation of your personal credentials. </li>
+<li><b>Natively:</b> Spot-on has been natively compiled on ARM, Alpha, PowerPC, Sparc64, X86, X86_64. Different architectures are addressed by the provided programming and Qt-compiling for these architectures.</li>
 <li><b>Open Source License: </b> Spot-On uses the open source BSD license, which refers to the Client and also to the integrated Server.</li>
-<li>Optional SSL/TLS client and server roles: ECC, RSA.</li>
-<li>P2P TCP server-less (without accept()) connections.
-    SSL/TLS is supported!</li>
-<li>Poptastic, or, communications through e-mail. IMAP, POP3, SMTP.</li>
-<li>Portable.</li>
-<li>PowerPC.</li>
-<li>Qt 5.5.1 (PowerPC).</li>
-<li>Qt LTS.</li>
-<li><b>Qt-Compiling: <b/> MacOS and Windows install targets are easily addressed with Qt over the command: make install! - or the Qt-Creator is graphically addressed to compile the source.</li>
+<li><b>P2P Serverless:</b> Spot-On has an architecture, which does not require a server. It is P2P serverless and this TCP server-less way establishes connections without "accept()". Also SSL/TLS is supported within these P2P connections. A server, e.g. in the web, helps of course NAT-ted clients to connect better. Forwarded ports (e.g. over "IPV6 exposed hosts" with a defined port) help to connect serverless to friends and peers.</li>
+<li><b>POPTASTIC:</b> POPTASTIC or, communications through e-mail, provides chat over e-mail-servers and accounts. IMAP, POP3, SMTP. From this POPTASTIC protocol the mobile chat app Delta-Chat derived.</li>
+<li><b>Portable:</b> Spot-On is portable. This means it is a portable app, you need not to install it (e.g. for Windows it is just a zip to unzip), also you can just copy the path into another place. Portable means also, that is is cross-compiling to different operating systems. And sure, copy the data and/or the application e.g. on an USB stick - and have your encryption details always secure with you.</li>
+<li><b>PowerPC:</b> PowerPC is supported with Qt 5.5.1.</li>
+<li><b>Qt-Famework: </b> The Qt-Framework is used with its Long Term Solution: Qt LTS. This also ensures easy Qt-Compiling over e.g. a terminal.</li>
+<li><b>Qt-Compiling: <b/> MacOS and Windows install targets are easily addressed with Qt over the command: "make install"! - or the Qt-Creator is graphically addressed to compile the source.</li>
 <li>Private applications. Stream through Spot-On.</li>
 <li>Private group communications.</li>
 <li>RSS feeder.</li>
@@ -103,6 +100,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Socket options:</b> In addition to binding a socket to a local address or connecting it to a destination address, application programs need a method to control the socket. Application programs may also want to control the allocation of buffer space, determine if the socket allows transmission of broadcast, or control processing of out-of-band data, which is a logically independent transmission channel associated with each pair of connected stream sockets. Spot-On provides several custom socket options in this regard. </li>
 <li>Socialist Millionaires Protocol.</li>
 <li>Sparc.</li>
+<li><b>SSL/TLS:</b> Spot-On provides optional SSL/TLS client and server roles: with ECC, RSA. Of coursse, as McEliece has not yet been implemented in a SSL/TLS process. SSL/TLS is within Spot-On used to provide an additional transport encryption, as already the data (e.g. messaging) packet is encrypted, the SSL/TLS process adds another layer of encryption. Spot-On is therefore one of the applications providung multi-encryption: Ciphertext is secured by another layer of encryption, here SSL/TLS - which therefore can be optionally, as it secures already encrypted ciphertext. </li>
 <li>Themes.</li>
 <li>Threefish CBC.</li>
 <li>UDP multicast, unicast.</li>
