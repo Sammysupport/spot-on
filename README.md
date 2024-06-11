@@ -9,7 +9,8 @@ Enhanced encryption processes have been invented and improved for implementation
 
 Spot-On utilized the Echo-Protocol for proxyfying and anonymizing the network, it provids end-to-end encryption (and therefore utilizes not a web-of-trust, which is only point-to-point encryption). Spot-On is in the groupchat and for servers compatible with Smoke Crypto Chat Messenger from F-Droid.org
 
-![Spot-On_Chatwindows](https://github.com/Sammysupport/spot-on/assets/153425149/97b2d6bc-f343-4e65-a487-e1b7e4593293)
+**Spot-On: 1:1-Chat-Window and "Chat-Tab"**
+![Spot-On_Chatwindows.png - Spot-On - 1:1-Chat-Window and "Chat-Tab"](https://github.com/Sammysupport/spot-on/assets/153425149/97b2d6bc-f343-4e65-a487-e1b7e4593293)
 
 # Download & Install
 
@@ -23,7 +24,8 @@ Download Win 32: https://github.com/textbrowser/spot-on/releases/download/2023.0
 
 Download Mac: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15.d.dmg
 
-![Spot-On_Minimal-View-Options](https://github.com/Sammysupport/spot-on/assets/153425149/1cff8fcd-e86e-4212-adc1-7aa024941bbf)
+**Spot-On: Login-Page & Options: Minimal View - just a few buttons**
+![Spot-On_Minimal-View-Options.png - Spot-On: Login-Page & Options: Minimal View - just a few buttons](https://github.com/Sammysupport/spot-on/assets/153425149/1cff8fcd-e86e-4212-adc1-7aa024941bbf)
 
 **Application-Data:**
 ```
@@ -114,11 +116,6 @@ Website:              https://textbrowser.github.io/spot-on/
 
 Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation for more information.
 
-# Screenshots
-
-![https://github.com/textbrowser/spot-on/blob/master/Wiki/spot-on-android.png](https://github.com/textbrowser/spot-on/blob/master/Wiki/spot-on-android.png)
-
-
 
 # References
 * Textbrowser (2010, 2013 - 2023): Documentation of Spot-On, URL: https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation
@@ -130,10 +127,25 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 * https://www.bing.com/search?q=Spot-On+encryption+suite
 * https://www.reddit.com/r/Spot_On_Encryption/
 
-![Spot-On_Settings_Kernel_Activation](https://github.com/Sammysupport/spot-on/assets/153425149/8882bec2-1020-4483-b283-c7b55b29b84d)
-![Spot-On_Neighbour](https://github.com/Sammysupport/spot-on/assets/153425149/339bb07d-deb6-426f-ab41-65acced8dc69)
-![Spot-On_Minimal-View-Options](https://github.com/Sammysupport/spot-on/assets/153425149/1cff8fcd-e86e-4212-adc1-7aa024941bbf)
-![Spot-On_Listener_Server](https://github.com/Sammysupport/spot-on/assets/153425149/05a5e259-67bc-4c18-8121-b125c9d587c2)
-![Spot-On_Groupchat](https://github.com/Sammysupport/spot-on/assets/153425149/e6cf48bf-ff61-4516-9836-f0611b33ff2d)
+# Screenshots
+
+**Spot-On: 1:1-Chat-Window and "Chat-Tab"**
 ![Spot-On_Chatwindows](https://github.com/Sammysupport/spot-on/assets/153425149/97b2d6bc-f343-4e65-a487-e1b7e4593293)
-<img width="547" alt="Spot-On_Websearch_Webinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/ca75a34c-75a4-496f-8d94-77bf1ef2de13">
+
+**Spot-On: Group-Chat-Tab called "Buzz"** 
+![Spot-On_Groupchat](https://github.com/Sammysupport/spot-on/assets/153425149/e6cf48bf-ff61-4516-9836-f0611b33ff2d)
+
+**Spot-On: Spot-On "Settings-Tab" to activate the kernel (must be done first)**
+![Spot-On_Settings_Kernel_Activation](https://github.com/Sammysupport/spot-on/assets/153425149/8882bec2-1020-4483-b283-c7b55b29b84d)
+
+**Spot-On: "Neighbour-Tab" to add a connection to a server or node**
+![Spot-On_Neighbour](https://github.com/Sammysupport/spot-on/assets/153425149/339bb07d-deb6-426f-ab41-65acced8dc69)
+
+**Spot-On: Login-Page & Options: Minimal View - just a few buttons (without search)**
+![Spot-On_Minimal-View-Options](https://github.com/Sammysupport/spot-on/assets/153425149/1cff8fcd-e86e-4212-adc1-7aa024941bbf)
+
+**Spot-On: Create a Server / Listener just with a few clicks**
+![Spot-On_Listener_Server](https://github.com/Sammysupport/spot-on/assets/153425149/05a5e259-67bc-4c18-8121-b125c9d587c2)
+
+**Spot-On: Websearch - here: Webinterface in a webbrowser**
+<img alt="Spot-On_Websearch_Webinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/ca75a34c-75a4-496f-8d94-77bf1ef2de13">
