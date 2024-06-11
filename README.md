@@ -92,22 +92,22 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Private group communications:</b> Private group communications is simply group-chat. It regularly is established over symmetric encryption, but can manually also be created for asymmetric chat. The symmetric encryption of Spot-On (c++) allows also to bridge to mobile chat (Android, Java) and bridges c++ and java encrypted chat with 1:1-group-chat-rooms. </li>
 <li><b>RSS feeder:</b>The RSS-feed reader collects not only your bunch of RSS-Feeds you want to read, but also displays the feeds in a timeline, so you will not miss out any news. Furthermore a search engine for keywords in all RSS-Items is implemented. If you want to remember a news from your RSS-items, just search for it in Spot-On. Actually it is a RSS-News search database. This URL- and News-Database can be shared with friends. Get RSS-News from your friends over encrypret connections: Reading BBC-News behind a censoring firewall becomes possible with this shared and distributed RSS-Database over Spot-On. </li>
 <li><b>Raspberry Pi:</b>b> The Pi-4 needs 3-4 Watt energy and the PI-5 needs 5 Watt. You can set up the Pi as as Spot-On-server at home (with forwarded port) and all family members can chat over Spot-On, secure and encrypted. An active chat-server with less energy consumption on the Raspberry-Pi than your TV in standby modus can be created. E.g., a Rasberry-Pi-Ballon in the air with wifi cares for all chatting people on a campsite or in a workshop, even without beeing connected to the internet. Which Chat-Eco-System is comparable to this Echo-Chat-System? </li>
-<li>Record e-mail of offline destinations.</li>
-<li>Remote accounts.</li>
-<li>Rosetta stationery.</li>
-<li>Search engine via PostgreSQL and SQLite.</li>
-<li>Simple software firewall.</li>
+<li><b>Record e-mail of offline destinations:</b> E-mail-Institutions is the name for the function, to provide in a P2P system (or with an intermediate server) the recording of e-mails of offline destinations, nodes and friends. Everyone in the client and eco-system of Spot-On can create a post-box for friends based on the cryptogaphic values given. This introduces new decentral postboxes in an encrypted environment: E-mail to a key.</li>
+<li><b>Remote accounts:</b>: Remote Accounts are accounts in a server respective at a listener to provide access to specific networks and IPs.</li>
+<li><b>Rosetta Crypto Pad: </b> Rosetta provides stationery in a Text-Pad. Write your text and convert it to ciphertext or vice versa. Either with symmetric encryption or over GPG keys, asymmmetric. A conversion pad named in allusion and accordance with the Stone of Rosetta in the British Museum. </li>
+<li><b>Search engine via PostgreSQL and SQLite: </b>: Spot-On saves URLs, Websites and RRS-Feed-News either in SQLite or PostgeSQL databases - means: Spot-On is a decentral P2P/F2F Web-Search-Engine over your imported News-Data.</li>
+<li><b>Simple software firewall:</b> With the simple software firewall you keep attackers out. Spot-On needs only one open port and the connection is secured via diffferent software firewalling functions. E.g. the cryptographic values (SSL/TLS and encryption keys) need to be assured, to be able to connect. </li>
 <li><b>Socket options:</b> In addition to binding a socket to a local address or connecting it to a destination address, application programs need a method to control the socket. Application programs may also want to control the allocation of buffer space, determine if the socket allows transmission of broadcast, or control processing of out-of-band data, which is a logically independent transmission channel associated with each pair of connected stream sockets. Spot-On provides several custom socket options in this regard. </li>
-<li>Socialist Millionaires Protocol.</li>
-<li>Sparc.</li>
+<li><b>Socialist Millionaires Protocol (SMP):</b> The Socialist Millionaires Protocol (SMP) verifies a password on both sides of e.g. a chat, to ensure authenticity of the friends - without transmitting the password over the internet. It`s near the context of zero-knowledge-proofs, some may have heard of. </li>
+<li><b>Sparc:</b> Yes. Sparc. Microprocessors. Scalable Processor ARChitecture - Sun, Oracle, Fujitsu. Open source architecture and also used by supercomputers too.</li>
 <li><b>SSL/TLS:</b> Spot-On provides optional SSL/TLS client and server roles: with ECC, RSA. Of coursse, as McEliece has not yet been implemented in a SSL/TLS process. SSL/TLS is within Spot-On used to provide an additional transport encryption, as already the data (e.g. messaging) packet is encrypted, the SSL/TLS process adds another layer of encryption. Spot-On is therefore one of the applications providung multi-encryption: Ciphertext is secured by another layer of encryption, here SSL/TLS - which therefore can be optionally, as it secures already encrypted ciphertext. </li>
-<li>Themes.</li>
-<li>Threefish CBC.</li>
-<li>UDP multicast, unicast.</li>
-<li>Ultra StarBeam file sharing. TCP through the Echo.</li>
-<li>WebSockets.</li>
+<li><b>Themes: Choose Nuvola Iconset or other and explore also the Themas for Spot-On and the minimal-view concept of Spot-On to change the UX experience.</li>
+<li><b>Threefish CBC:</b> Threefish is the successor of Twofish and affects the symmetric block-cipher-encryption. Choose this for state-of-the-art encryption. </li>
+<li><b>UDP multicast, unicast:</b> UDP either in multicast or unicast modus is an alternative to TCP.</li>
+<li><b>Ultra-StarBeam file sharing: </b> USB (Ultra-Star-Beam) introdoces into TCP-E (TCP through the Echo). If you transfer a file in the filesharing tab, your file will be sent encrypted over the Echo-protocol. To male it TCP-like, there is a handshake sent back for each packet-transfer. That makes file transport over the Echo lossless and secure. Futhermore the Ultra-Star-Beam-(USB)-Protocol enables swarming the download from several sources. </li>
+<li><b>WebSockets: </b> WebSocket is a computer communications protocol, providing a simultaneous two-way communication channel over a single Transmission Control Protocol (TCP) connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011. The current specification allowing web applications to use this protocol is known as WebSockets. It is designed to work over HTTP ports 443 and 80 as well as to support HTTP proxies and intermediaries.</li>
 <li><b>Web-Interface for the F2F Websearch:</b> Webbrowser like Dooble, Firefox, Lynx, etc. support for custom Web search engine by its Webinterface.</li>
-<li>Windows portable.</li>
+<li><b>Windows portable:</b> Yes. Portable and also portable for Windows. See portable. E.g. on a USB-Stick </li>
 </ul>
 
 Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation for more information.
