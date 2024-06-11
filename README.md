@@ -126,3 +126,9 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 * https://www.google.com/search?q=Spot-On+encryption+suite
 * https://www.bing.com/search?q=Spot-On+encryption+suite
 
+![Spot-On_Settings_Kernel_Activation](https://github.com/Sammysupport/spot-on/assets/153425149/8882bec2-1020-4483-b283-c7b55b29b84d)
+![Spot-On_Neighbour](https://github.com/Sammysupport/spot-on/assets/153425149/339bb07d-deb6-426f-ab41-65acced8dc69)
+![Spot-On_Minimal-View-Options](https://github.com/Sammysupport/spot-on/assets/153425149/1cff8fcd-e86e-4212-adc1-7aa024941bbf)
+![Spot-On_Listener_Server](https://github.com/Sammysupport/spot-on/assets/153425149/05a5e259-67bc-4c18-8121-b125c9d587c2)
+![Spot-On_Groupchat](https://github.com/Sammysupport/spot-on/assets/153425149/e6cf48bf-ff61-4516-9836-f0611b33ff2d)
+![Spot-On_Chatwindows](https://github.com/Sammysupport/spot-on/assets/153425149/97b2d6bc-f343-4e65-a487-e1b7e4593293)
