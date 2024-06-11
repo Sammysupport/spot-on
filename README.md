@@ -88,8 +88,8 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>PowerPC:</b> PowerPC is supported with Qt 5.5.1.</li>
 <li><b>Qt-Famework: </b> The Qt-Framework is used with its Long Term Solution: Qt LTS. This also ensures easy Qt-Compiling over e.g. a terminal.</li>
 <li><b>Qt-Compiling: </b> MacOS and Windows install targets are easily addressed with Qt over the command: "make install"! - or the Qt-Creator is graphically addressed to compile the source.</li>
-<li>Private applications. Stream through Spot-On.</li>
-<li>Private group communications.</li>
+<li><b>Patch-Points (encrypt private applications):</b>Private applications (Patch Points) allow to stream through Spot-On. An application with no or insecure encryption can be bound over localhost proxy with Spot-On and establish a connection between two Spot-On-nodes. Spot-On privides like a VPN a strong encryption and secures the transmission of other applications, non-cappable to encrypt. Stream TCP over two Spot-On secured connection-points. This is the concept of Patch-Points for private applications in Spot-On. </li>
+<li><b>Private group communications:</b> Private group communications is simply group-chat. It regularly is established over symmetric encryption, but can manually also be created for asymmetric chat. The symmetric encryption of Spot-On (c++) allows also to bridge to mobile chat (Android, Java) and bridges c++ and java encrypted chat with 1:1-group-chat-rooms. </li>
 <li>RSS feeder.</li>
 <li>Raspberry Pi.</li>
 <li>Record e-mail of offline destinations.</li>
