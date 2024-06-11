@@ -117,10 +117,10 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 
 
 # References
-* Textbrowser (2010, 2013 - 2023): Documentation of Spot-On,  https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation
+* Textbrowser (2010, 2013 - 2023): Documentation of Spot-On, URL: https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation
 
 * Edwards, Scott / Spot-On.sf.net Project (2019): Spot-On Encryption Suite: Democratization of Multiple & Exponential Encryption - Handbook and User Manual as practical software guide, ISBN 9783749435067, BOD Publishing 2019, URL: https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf / [Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf](https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf)
 
 * https://www.google.com/search?q=Spot-On+encryption+suite
 * https://www.bing.com/search?q=Spot-On+encryption+suite
-* 
+
