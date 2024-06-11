@@ -107,7 +107,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Ultra-StarBeam file sharing: </b> USB (Ultra-Star-Beam) introdoces into TCP-E (TCP through the Echo). If you transfer a file in the filesharing tab, your file will be sent encrypted over the Echo-protocol. To male it TCP-like, there is a handshake sent back for each packet-transfer. That makes file transport over the Echo lossless and secure. Futhermore the Ultra-Star-Beam-(USB)-Protocol enables swarming the download from several sources. </li>
 <li><b>WebSockets: </b> WebSocket is a computer communications protocol, providing a simultaneous two-way communication channel over a single Transmission Control Protocol (TCP) connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011. The current specification allowing web applications to use this protocol is known as WebSockets. It is designed to work over HTTP ports 443 and 80 as well as to support HTTP proxies and intermediaries.</li>
 <li><b>Web-Interface for the F2F Websearch:</b> Webbrowser like Dooble, Firefox, Lynx, etc. support for custom Web search engine by its Webinterface.</li>
-<li><b>Windows portable:</b> Yes. Portable and also portable for Windows. See portable. E.g. on a USB-Stick </li>
+<li><b>Windows portable:</b> Yes. Portable and also portable for Windows. See portable. E.g. on a USB-Stick. </li>
 </ul>
 
 Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation for more information.
