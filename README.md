@@ -9,6 +9,7 @@ Enhanced encryption processes have been invented and improved for implementation
 
 Spot-On utilized the Echo-Protocol for proxyfying and anonymizing the network, it provids end-to-end encryption (and therefore utilizes not a web-of-trust, which is only point-to-point encryption). Spot-On is in the groupchat and for servers compatible with Smoke Crypto Chat Messenger from F-Droid.org
 
+![Spot-On_Chatwindows](https://github.com/Sammysupport/spot-on/assets/153425149/97b2d6bc-f343-4e65-a487-e1b7e4593293)
 
 # Download & Install
 
@@ -22,6 +23,7 @@ Download Win 32: https://github.com/textbrowser/spot-on/releases/download/2023.0
 
 Download Mac: https://github.com/textbrowser/spot-on/releases/download/2023.12.15/Spot-On-2023.12.15.d.dmg
 
+![Spot-On_Minimal-View-Options](https://github.com/Sammysupport/spot-on/assets/153425149/1cff8fcd-e86e-4212-adc1-7aa024941bbf)
 
 **Application-Data:**
 ```
@@ -123,8 +125,10 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 
 * Edwards, Scott / Spot-On.sf.net Project (2019): Spot-On Encryption Suite: Democratization of Multiple & Exponential Encryption - Handbook and User Manual as practical software guide, ISBN 9783749435067, BOD Publishing 2019, URL: https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf / [Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf](https://github.com/user-attachments/files/15521838/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf)
 
+* https://github.com/textbrowser/spot-on
 * https://www.google.com/search?q=Spot-On+encryption+suite
 * https://www.bing.com/search?q=Spot-On+encryption+suite
+* https://www.reddit.com/r/Spot_On_Encryption/
 
 ![Spot-On_Settings_Kernel_Activation](https://github.com/Sammysupport/spot-on/assets/153425149/8882bec2-1020-4483-b283-c7b55b29b84d)
 ![Spot-On_Neighbour](https://github.com/Sammysupport/spot-on/assets/153425149/339bb07d-deb6-426f-ab41-65acced8dc69)
