@@ -132,3 +132,4 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 ![Spot-On_Listener_Server](https://github.com/Sammysupport/spot-on/assets/153425149/05a5e259-67bc-4c18-8121-b125c9d587c2)
 ![Spot-On_Groupchat](https://github.com/Sammysupport/spot-on/assets/153425149/e6cf48bf-ff61-4516-9836-f0611b33ff2d)
 ![Spot-On_Chatwindows](https://github.com/Sammysupport/spot-on/assets/153425149/97b2d6bc-f343-4e65-a487-e1b7e4593293)
+<img width="547" alt="Spot-On_Websearch_Webinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/ca75a34c-75a4-496f-8d94-77bf1ef2de13">
