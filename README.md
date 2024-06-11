@@ -87,7 +87,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Portable:</b> Spot-On is portable. This means it is a portable app, you need not to install it (e.g. for Windows it is just a zip to unzip), also you can just copy the path into another place. Portable means also, that is is cross-compiling to different operating systems. And sure, copy the data and/or the application e.g. on an USB stick - and have your encryption details always secure with you.</li>
 <li><b>PowerPC:</b> PowerPC is supported with Qt 5.5.1.</li>
 <li><b>Qt-Famework: </b> The Qt-Framework is used with its Long Term Solution: Qt LTS. This also ensures easy Qt-Compiling over e.g. a terminal.</li>
-<li><b>Qt-Compiling: <b/> MacOS and Windows install targets are easily addressed with Qt over the command: "make install"! - or the Qt-Creator is graphically addressed to compile the source.</li>
+<li><b>Qt-Compiling: </b> MacOS and Windows install targets are easily addressed with Qt over the command: "make install"! - or the Qt-Creator is graphically addressed to compile the source.</li>
 <li>Private applications. Stream through Spot-On.</li>
 <li>Private group communications.</li>
 <li>RSS feeder.</li>
