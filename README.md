@@ -75,13 +75,12 @@ Website:              https://textbrowser.github.io/spot-on/
 <li><b>Human Proxies:</b> Human Proxies describe a function to send a message over the Echo-Protocol not from the own node, but from the node of a friend (a human proxy). Here a Human Proxies problem or phenomenon is created based on the Echo-Protocol and its graph routes and specialities: how is it judged who the sender of the the same copy is? A mathematical (also social and philosophical) problem of graph routes beyond routing is created. </li>
 <li> <b>Individual configuration needs:</b> E.g. thread priorities are individually configurationable. Spot-On can adjust many options for individual needs of use cases of users and research models of cryptographers.</li>
 <li><b>Infinite listeners and neighbors:</b> Not only the client is open source, also the server software for Spot-On is open source and the function to create a server is integratred in the application of Spot-On client, see Listeners Tab. Next to the Connection Tab for neighbour nodes, both, Listener (Server) Tab as well as Neighbours Tab allow infinite connections respective Listeners on ports and Neighbours connected for scaling. </li>
-<li><b>Integrated file encryption of directories and files:</b> Spot-On contains a File-Cryptor, which also works for directories. Spot-On as application manages your keys and cryptographical processes. Means: Next to Encypted Chat and aData in Tranit not only the data at rest of Spot-On is stored in encrypte containers, also the data ogf users can be encrypted as wished for files and directories. A powerful and open source tool to encrpyt individual files or directories.</li>
-<li><b>Living documentation:</b> Next to the technical documentation there is also a manuel, which has been publsihed with ISBN and is open source downloadable, the wiki and pages are living documents to also be exted by users and contributing and forking projects. See descritions and tutorials on the web or write your own.</li>
-<li>MacOS and Windows install targets: make install!</li>
-<li>Messaging.</li>
-<li>Multitasking kernel.</li>
-<li>Native virtual keyboard.</li>
-<li>Natively compiled on ARM, Alpha, PowerPC, Sparc64, X86, X86_64.</li>
+<li><b>Integrated file encryption of directories and files:</b> Spot-On contains a File-Cryptor, which also works for directories. Spot-On as application manages your keys and cryptographical processes. Means: next to encypted chat and data in tranit not only the data at rest of Spot-On is stored in encrypted containers, also the data of users can be encrypted as wished and defined for files and directories. A powerful and open source tool to strongly encrpyt individual files or directories.</li>
+<li><b>Living documentation:</b> Next to the technical documentation there is also a manual as handbook, which has been published with ISBN and is open source downloadable. The wiki and further pages are living documents also extendable by users and contributing and forking projects. See descritions and tutorials in the web or write and provide your own tutorial.</li>
+<li><b>Messaging:</b> Spot-On is a chat messenger. It utilizes different open source servers, which are integrated into the application, also headless available for Linux and Android. Also regular E-Mail-Accounts and their servers can be addressed via the POPTASTIC protocol for messaging friends. The mobile Delta-Chat App derived from this function of Messaging over E-Mail-Servers via the POPTASTIC protocol.</li>
+<li><b>Multitasking kernel:</b> Spot-On utilizes a kernel, which has to be activated within the settings tab. The kernel is multi-tasking and a fast solution for all the encryption and decryption processes. If you install Spot-On with its Listener function as a server on your webserver, the multi-tasking kernel saved additional CPU-Core, because it is fast enough to serve all participants.</li>
+<li><b>Native virtual keyboard:</b> Consider your keyboard probably infected by spybot. Spot-On is ahead of this risks and has integrated an own software keybord, which is opened, if you double-click in the password field of the login page. Mouse clicks cannot reveal your password. And you think, Spot-On is onyl for spy agents of agencies? No. it is about your process to provide a safe insertation of your personal credentials. </li>
+<li><b>Natively:</b> Spot-on has been natively compiled on ARM, Alpha, PowerPC, Sparc64, X86, X86_64. Different architectures are addressed by the provided programming and Qt-Compiling for these architectures.</li>
 <li><b>Open Source License: </b> Spot-On uses the open source BSD license, which refers to the Client and also to the integrated Server.</li>
 <li>Optional SSL/TLS client and server roles: ECC, RSA.</li>
 <li>P2P TCP server-less (without accept()) connections.
@@ -91,6 +90,7 @@ Website:              https://textbrowser.github.io/spot-on/
 <li>PowerPC.</li>
 <li>Qt 5.5.1 (PowerPC).</li>
 <li>Qt LTS.</li>
+<li><b>Qt-Compiling: <b/> MacOS and Windows install targets are easily addressed with Qt over the command: make install! - or the Qt-Creator is graphically addressed to compile the source.</li>
 <li>Private applications. Stream through Spot-On.</li>
 <li>Private group communications.</li>
 <li>RSS feeder.</li>
