@@ -147,7 +147,7 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 **Spot-On: Create a Server / Listener just with a few clicks**
 ![Spot-On_Listener_Server](https://github.com/Sammysupport/spot-on/assets/153425149/05a5e259-67bc-4c18-8121-b125c9d587c2)
 
-**Spot-On: FileSahring with Magnet-Links - "StarBeam-Tab" or StarBeam in Chatwindow**
+**Spot-On: FileSharing with Magnet-Links - "StarBeam-Tab" or to be StarBeamed in the Chatwindow**
 ![Spot-On_FileSharing_Torrent_Magnet](https://github.com/Sammysupport/spot-on/assets/153425149/fb8e404c-d597-49b7-8062-34920cab026f)
 
 **Spot-On: Websearch - here: Webinterface in a webbrowser**
