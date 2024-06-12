@@ -153,3 +153,9 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 
 **Spot-On: Websearch - here: Webinterface in a webbrowser**
 <img alt="Spot-On_Websearch_Webinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/ca75a34c-75a4-496f-8d94-77bf1ef2de13">
+
+**Spot-On: Websearch 2 - here: client-interface in a tab**
+<img alt="Spot-On_Websearch_Clientinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/6ad22197-084a-478a-a155-e19737d6f8fa">
+
+
+
