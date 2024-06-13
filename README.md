@@ -126,7 +126,7 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 * https://github.com/textbrowser/spot-on
 * https://www.google.com/search?q=Spot-On+encryption+suite
 * https://www.bing.com/search?q=Spot-On+encryption+suite
-* https://www.reddit.com/r/Spot_On_Encryption/
+* https://www.reddit.com/r/Spot-On_Encryption/
 
 # Screenshots
 
