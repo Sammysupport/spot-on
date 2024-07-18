@@ -1,8 +1,7 @@
-*This site is open source and under a public domain license (alternatively a creative commons license), so the content (or parts of it) can be used in (or modified for) any other project or wiki.*
+*This site is open source and under a public domain license (alternatively a creative commons license), so the content (or parts of it) can be used in (or modified for) any other project or wiki.* Website forked and summarized with more screenshots from: https://github.com/textbrowser/spot-on
 
 # Spot-On Encryption Suite
 
-Website forked and summarized with more screenshots from: https://github.com/textbrowser/spot-on
 
 Spot-On is an open-source Encrpytion Suite for secure Chat & E-Mail, File Transfer and also Websearch in a F2F distributed URL-Database.
 
