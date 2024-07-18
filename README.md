@@ -1,4 +1,4 @@
-*This site is open source and under a public domain license (alternatively a creative commons license), so the content (or parts of it) can be used in (or modified for) any other project or wiki.* Website forked and summarized with more screenshots from: https://github.com/textbrowser/spot-on
+*This site is open source and under a public domain license (alternatively a creative commons license), so the content (or parts of it) can be used in (or modified for) any other project or wiki.* Website forked and summarized with more screenshots from: https://github.com/textbrowser/spot-on | URL of this Site: https://sammysupport.github.io/spot-on/ 
 
 # Spot-On Encryption Suite
 
