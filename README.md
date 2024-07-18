@@ -2,6 +2,8 @@
 
 # Spot-On Encryption Suite
 
+Website forked and summarized with more screenshots from: https://github.com/textbrowser/spot-on
+
 Spot-On is an open-source Encrpytion Suite for secure Chat & E-Mail, File Transfer and also Websearch in a F2F distributed URL-Database.
 
 Means: Spot-On is a Messaging and File-Transfer Application. With RSS you can import, read, search and distribute your feeds f2f to your friends over encrypted connections.  
