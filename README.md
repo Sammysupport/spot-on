@@ -149,7 +149,7 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 <img alt="Spot-On_Websearch_Clientinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/6ad22197-084a-478a-a155-e19737d6f8fa">
 
 
-# References 
+# Bibliographic References, Literature, Papers & Articles:  
 
 * Adams, D. & Maier, A.-K. (2016): Big Seven Study 2016 - 7 open source Crypto-Messengers to be compared, ISBN 978-3750408975.
 * Bertram, L. A. / van Dooble, G. (2019): Transformation of Cryptography, 2019, deutsch: Die Transformation der Kryptographie, ISBN: 978-3749450749.
