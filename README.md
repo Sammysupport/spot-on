@@ -119,16 +119,6 @@ The files are saved in the sub-dir:  - /.spot-on (if you want to renew your acco
 Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation for more information.
 
 
-# References
-* Textbrowser (2010, 2013 - 2023): Documentation of Spot-On, URL: https://github.com/textbrowser/spot-on/tree/master/branches/trunk/Documentation
-
-* Edwards, Scott / Spot-On.sf.net Project (2019): Spot-On Encryption Suite: Democratization of Multiple & Exponential Encryption - Handbook and User Manual as practical software guide, ISBN 9783749435067, BOD Publishing 2019, URL: https://github.com/Sammysupport/spot-on/blob/ff1208f76217fa41252775f2c24fec2b73ee3865/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf
-
-* https://github.com/textbrowser/spot-on
-* https://www.google.com/search?q=Spot-On+encryption+suite
-* https://www.bing.com/search?q=Spot-On+encryption+suite
-* https://www.reddit.com/r/Spot_On_Encryption/
-
 # Screenshots
 
 **Spot-On: 1:1-Chat-Window and "Chat-Tab"**
@@ -157,6 +147,27 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 
 **Spot-On: Websearch 2 - here: client-interface in a tab**
 <img alt="Spot-On_Websearch_Clientinterface" src="https://github.com/Sammysupport/spot-on/assets/153425149/6ad22197-084a-478a-a155-e19737d6f8fa">
+
+
+# References 
+
+* Adams, D. & Maier, A.-K. (2016): Big Seven Study 2016 - 7 open source Crypto-Messengers to be compared, ISBN 978-3750408975.
+* Bertram, L. A. / van Dooble, G. (2019): Transformation of Cryptography, 2019, deutsch: Die Transformation der Kryptographie, ISBN: 978-3749450749.
+* Bro, T. (2024): Echo-Protokoll, in: Bro, T. (2024): Lexikon der Informatik, Datenverarbeitung und Kryptographie - Mit über 1000 Übungs-Aufgaben für Lernende, ISBN 978-3758368158.
+* Edwards, S. (2023): Spot-On - Eine moderne Verschlüsselungs-Suite im Echo, in: Sobiraj, L. (Hg.): Unter dem Radar - Ausgewählte Artikel und Interviews zu Datenschutz, Informationstechnologie, Netzpolitik und Hacking, Norderstedt, pp 133-145.
+* Edwards, S.: Spot-On (2022) : A modern encryption suite in the Echo, Article Magazin TK Info Portal.
+* **Gasakis, M. / Schmidt, M. (2018): Beyond Cryptographic Routing: The Echo Protocol in the new Era of Exponential Encryption (EEE), ISBN 978-3-7481-5198-2.**
+* Lindner, M. (2014): POPTASTIC: Verschlüsselter Chat über POP3, Pro-Linux Magazin, 9. Dezember.
+* Moonlander, C. (2020): Smoke - An Android Echo Chat Software Application: Open Source Technical Website Reference Documentation 2020-11-15, ISBN 9783752691993 & 9783752692006.
+* Nomenclatura (2019): Encyclopedia of modern Cryptography and Internet Security: From AutoCrypt and Exponential Encryption to Zero-Knowledge-Proof Keys, ISBN: 978-3748191513.
+* Rahmschmid, C. / Adams, D. (2023): McEliece Messaging: Smoke Crypto Chat - The first mobile McEliece-Messenger published as a stable prototype worldwide, Article Magazin TK Info Portal, and published in: Sobiraj, L. (Hg.): Unter dem Radar - Ausgewählte Artikel und Interviews zu Datenschutz, Informationstechnologie, Netzpolitik und Hacking, pp. 73-83.
+* Smoke (2017): Documentation of the Android Messenger Application Smoke with Encryp-tion, URL: https://github.com/textbrowser/smoke/raw/master/Documentation/Smoke.pdf, 2017.
+* SmokeStack (2017): Server Software for Encrypted Messaging, URL: https://github.com/textbrowser/smokestack.
+* **Spot-On Encryption Suite Handbook (2019): Democratization of Multiple & Exponential Encryption: - Handbook and User Manual as practical software guide, ISBN: 978-3749435067. https://github.com/Sammysupport/spot-on/blob/ff1208f76217fa41252775f2c24fec2b73ee3865/Edwards_Spot-On-Encryption-Suite_-_9783749439829.pdf** 
+* Tenzer, T. (2022): Super Secreto - The Third Epoch of Cryptography: Multiple, exponential, quantum-secure and above all, simple and practical Encryption for Everyone, ISBN 978-3755761174.
+* Tenzer, T. (2022): Spot-On Encryption Suite, in: Verschlüsselung für alle: Abhörsicher in die Dritte Epoche der Kryptographie, ISBN: 978-3755758112.
+* **Textbrowser (2011 - current): Documentation of the Spot-On-Application, URL: https://github.com/textbrowser/spot-on/tree/master/ branch-es/trunk/Documentation, Github; & was: https://sourceforge.net/p/spot-on/code/HEAD/tree/ & RELEASE-NOTES.archived, 08.08.2011.**
+* Wake, M.A. et. al. (2020): Echo on a Chip (EoC) – A New Perception for the Next Generation of Micro-Controllers handling Encryption for Mobile Messaging. ISBN 9783751916448.
 
 
 
