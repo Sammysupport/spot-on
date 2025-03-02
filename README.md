@@ -242,11 +242,11 @@ Smoke Crypto Chat competes with established secure messengers. Here’s how it c
 
 💬 End-to-End Encryption: Messengers like Signal, Threema, WhatsApp, and Element/Matrix provide end-to-end encrypted chats like Smoke. However, they rely on Elliptic Curve Cryptography (Curve25519, Double Ratchet), which may not be quantum-safe. Smoke uses McEliece, ensuring future-proof encryption.
 
-🔑 Forward Secrecy & Key Management: Standard messengers use a single new key per message (e.g., Signal's Double-Ratchet). Smoke goes further, sending multiple keys per message (Fiasco Forwarding), increasing security but adding complexity.
+Forward Secrecy & Key Management: Standard messengers use a single new key per message (e.g., Signal's Double-Ratchet). Smoke goes further, sending multiple keys per message (Fiasco Forwarding), increasing security but adding complexity.
 
-📱 Identification & Privacy: WhatsApp and Signal require a phone number, which reduces privacy. Threema and Smoke use random IDs, eliminating phone number dependency.
+Identification & Privacy: WhatsApp and Signal require a phone number, which reduces privacy. Threema and Smoke use random IDs, eliminating phone number dependency.
 
-🏢 Centralization vs. Decentralization: Signal, WhatsApp, and Telegram use centralized servers. Matrix/XMPP allow federation but require complex server setup. Smoke simplifies self-hosting with an Android-based server (SmokeStack), making it easier to decentralize.
+Centralization vs. Decentralization: Signal, WhatsApp, and Telegram use centralized servers. Matrix/XMPP allow federation but require complex server setup. Smoke simplifies self-hosting with an Android-based server (SmokeStack), making it easier to decentralize.
 
 Advantages:
 ✔️ Post-Quantum Encryption
@@ -254,8 +254,7 @@ Advantages:
 ✔️ Self-hosted servers
 ✔️ Works offline/local network
 
-Disadvantages:
-❌ Technical UI, which could have a make-over in a community fork
-❌ voice files can be transferred, live video calls need further implementation.
+Future & Community development:
+❌ Technical UI, which could have a make-over in a community fork and: voice files can be transferred, live video calls need further implementation.
 
 Conclusion: Smoke Crypto Chat Messenger is the worlds first mobile post-quantum secure messenger, setting and implementing the standards for encrypted communication. Smoke is best suited for general users who what to emerge with learnings and cryptographical explorings to a tech-savvy user status in cryptography and security research. It serves as an important platform, demonstrating what quantum-computer-proof secure messaging has to look like in today´s quantum era and secure messaging.
