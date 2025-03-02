@@ -170,7 +170,7 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 * Wake, M.A. et. al. (2020): Echo on a Chip (EoC) – A New Perception for the Next Generation of Micro-Controllers handling Encryption for Mobile Messaging. ISBN 9783751916448.
 
 
-# A BOTs Research on Spot-On: Spot-On Encryption Suite: Features, Security, and Comparison
+# Research-Article on Spot-On: Spot-On Encryption Suite: Features, Security, and Comparison
 
 Main Features and Supported Encryption Methods: Spot-On is an open-source encryption suite designed for secure communication across multiple channels, including 1:1 and group chats, an email client, file transfers (via Magnet links similar to BitTorrent), and a decentralized web search based on a distributed Friend-to-Friend (F2F) database. All communication channels are end-to-end encrypted.
 
