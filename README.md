@@ -256,6 +256,6 @@ Advantages:
 
 Disadvantages:
 ❌ Technical UI, which could have a make-over in a community fork
-❌ Lacks voice/video calls
+❌ voice files can be transferred, live video calls need further implementation.
 
 Conclusion: Smoke Crypto Chat Messenger is the worlds first mobile post-quantum secure messenger, setting and implementing the standards for encrypted communication. Smoke is best suited for general users who what to emerge with learnings and cryptographical explorings to a tech-savvy user status in cryptography and security research. It serves as an important platform, demonstrating what quantum-computer-proof secure messaging has to look like in today´s quantum era and secure messaging.
