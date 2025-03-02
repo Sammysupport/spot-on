@@ -170,4 +170,41 @@ Please visit https://github.com/textbrowser/spot-on/tree/master/branches/trunk/D
 * Wake, M.A. et. al. (2020): Echo on a Chip (EoC) – A New Perception for the Next Generation of Micro-Controllers handling Encryption for Mobile Messaging. ISBN 9783751916448.
 
 
+# A BOTs Research on Spot-On: Spot-On Encryption Suite: Features, Security, and Comparison
 
+Main Features and Supported Encryption Methods: Spot-On is an open-source encryption suite designed for secure communication across multiple channels, including 1:1 and group chats, an email client, file transfers (via Magnet links similar to BitTorrent), and a decentralized web search based on a distributed Friend-to-Friend (F2F) database. All communication channels are end-to-end encrypted.
+
+Spot-On supports a broad range of cryptographic methods, including classic public-key algorithms like RSA, DSA, and ElGamal, as well as modern elliptic curve methods such as ECDSA/EdDSA. Additionally, it incorporates as first desktop-chat-messenger post-quantum algorithms such as McEliece and NTRU. For symmetric encryption, Spot-On employs Threefish (a block cipher in CBC mode). It also supports authenticated encryption (ensuring data integrity) and optional SSL/TLS for secure connections.
+
+Special features include the Socialist’s Millionaires Protocol (a zero-knowledge proof for key agreement), general Zero-Knowledge-Proofs, and a Rosetta Crypto Pad for offline encryption (also with GPG). This extensive range of encryption methods makes Spot-On one of the most functionally rich encryption suites available for communication security.
+
+Supported Platforms: Spot-On is cross-platform and developed in C++ with Qt. It runs on operating systems that support Qt (version 5.15/6.5+), including Windows, macOS, Linux, and even niche systems like FreeBSD, OpenBSD, OS/2, and Qt-support for Android.
+
+Precompiled binaries are available for Windows, macOS and Debian, while further Linux users can compile the source code. Spot-On supports various networking protocols (TCP, UDP, SCTP, Bluetooth), allowing it to function across different network environments, including local Bluetooth-based networks.
+
+Use Cases and Applications: Spot-On is designed for secure peer-to-peer communication using an F2F topology. It is ideal for groups or communities that require confidential communication and file sharing without relying on centralized servers. This application with its features include:
+
+Alternative to mainstream messaging & file-sharing platforms for groups of friends, work teams, or journalists needing privacy.
+End-to-end encrypted file transfers using the StarBeam feature, which operates similarly to torrents but within a fully encrypted group/network.
+Decentralized web search where participants contribute to and use a shared encrypted URL database via RSS feeds.
+POPTASTIC - Chat over E-Mail-Servers: The Poptastic function enables users to exchange encrypted messages via standard email servers (POP3/IMAP/SMTP), even in environments where P2P connections are blocked.
+High-privacy networks: Spot-On can be configured to operate entirely over Tor for additional anonymity.
+A practical example would be a private chat group using Spot-On to securely exchange information and files without exposing their metadata, unlike traditional platforms like IRC or FTP.
+
+Security Features and Evaluation: Advanced Multi-Hop End-to-End Encryption - Unlike many traditional F2F networks that encrypt only between immediate neighbors (like e.g. RetroShare), Spot-On ensures end-to-end encryption even when data is relayed through multiple hops. This means no intermediary can decrypt or inspect messages.
+
+Anonymizing Echo Protocol: Spot-On employs a unique Echo Protocol, which has no sender and receiver IP addresses information from transmitted data packets. Messages are forwarded through peers, with each relay re-encrypting the data, ensuring that even nodes acting as intermediaries cannot track the message source or destination.
+
+Strong and Versatile Cryptography: Spot-On uses both classical and post-quantum algorithms, ensuring resistance to potential quantum computing attacks. The software also provides a customizable cipher/hash selection during setup. Additionally, it features a proprietary Echo Public Key Sharing (EPKS) system for secure key exchange within a community.
+
+Open Source and Transparent Development: Spot-On is released under a BSD license and has been in development since 2010. The source code is publicly available, enabling external audits and community-driven improvements. Next to the option of formal security audits, the project's commitment to open-source development suggests no hidden backdoors, as everything is open and proveable.
+
+Reviews have praised Spot-On’s high cryptographic density and security, its learning model and content means it is best for general consumers wanting to deepen the tech-savvy knowledge.
+
+Spot-On offers the most advanced encryption with multi-hop end-to-end protection and post-quantum cryptography, but is technically complex and requires manual setup. It is a user-friendly alternative for encrypted social networking (forums, chats, and file-sharing), and its encryption is not only hop-to-hop but rather provides full E2E multi-hop.
+
+Availability and Maintenance: Spot-On is actively maintained and regularly updated. The software is available as an open-source project on GitHub, with binary releases for Windows, macOS, and Linux.
+
+The project is developed by an individual known as “Textbrowser”, and the BSD licensing allows its code to be freely modified or incorporated into other projects. The Spot-On community is suppoting through available forums.
+
+Spot-On provides an actively maintained project, with recent updates released at the end of the last year. Users looking for a high-security, decentralized communication suite with state-of-the-art encryption will find Spot-On a robust solution, no one should have missed to study and share the exploring with friends.
