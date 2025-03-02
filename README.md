@@ -208,3 +208,54 @@ Availability and Maintenance: Spot-On is actively maintained and regularly updat
 The project is developed by an individual known as “Textbrowser”, and the BSD licensing allows its code to be freely modified or incorporated into other projects. The Spot-On community is suppoting through available forums.
 
 Spot-On provides an actively maintained project, with recent updates released at the end of the last year. Users looking for a high-security, decentralized communication suite with state-of-the-art encryption will find Spot-On a robust solution, no one should have missed to study and share the exploring with friends.
+
+
+# Semi-compatible Mobile Messenger with Spot-On: Smoke Crypto Chat Messenger: An additional Analysis
+
+Smoke Crypto Chat is an open-source messenger focused on maximum security. It is regarded as the world's first mobile messenger to use the post-quantum secure McEliece algorithm for encryption. The app enables end-to-end encrypted chats without requiring a phone number, supports self-hosted decentralized servers, and implemented cryptographic concepts for enhanced forward secrecy. Below, we examine its features, security, supported platforms, user experiences, origin, and parallels with other secure messengers based on the Echo-Protocol like the Desktop-Messenger Spot-On.
+
+Features and Unique Aspects
+End-to-End Encrypted Chats: Smoke offers individual chats as well as a group chat in IRC style ("Fire" channels) with symmetric group key encryption. All conversations are end-to-end encrypted by default. Group-Chats (also 1:1-Fire-Chats) are compatible with Chats on Spot-On (for Desktop).
+
+Messaging and Data Exchange: In addition to text messages, emojis and images can be sent. Received images are stored in an encrypted container on the smartphone and must first be decrypted before being exported for external use. It is also possible to send any type of file — even to recipients who do not have the Smoke client: Files can be encrypted and transferred via standard tools (e.g., to an SSH client). This is handled via the integrated "Steam" protocol, which ensures reliable file transfers (TCP over the Echo network).
+
+No Phone Number Required: Users identify themselves via a random 32-character chat ID instead of a phone number. Automatic contact list uploads do not occur, providing a key privacy advantage (GDPR compliance) over messengers that scan address books. To simplify usage, each user can in addition define an alias (e.g., a term like "Berlin") that the chat partner must also enter to establish a connection. Using this shared alias, the clients automatically exchange public keys and start the secure chat. This method replaces central key servers with an AutoCrypt-like mechanism (known from Spot-On as EPKS), making key exchange simpler.
+
+Self-Hosted Servers & Decentralization: Smoke is based on the decentralized Echo protocol instead of centralized servers. Messages can run through the built-in SmokeStack server — a simple server app for Android. This allows users to set up easily a personal chat server on an old Android device at home, in a classroom, or in a small group. Alternatively, users can run their own server instances or use public Echo servers. This federated model allows schools, organizations, or municipalities to deploy their own private messenger server rather than relying on foreign cloud services.
+
+Direct and Offline Communication: Smoke can theoretically function without an internet connection. Devices on the same local network (or via Bluetooth/TCP direct connection) can communicate directly since no registration or external infrastructure is required. For offline messages, Smoke uses Ozone mailboxes: If a message is sent while the recipient is offline, it is temporarily stored until the recipient accesses a shared Ozone mailbox (on one or more known SmokeStack servers) to retrieve it. This ensures that messages are not lost even when both devices are not online at the same time.
+
+Multi-Media and Additional Features: The app provides additional functions, such as an app lock (password protection for the app), and modern key derivation algorithms (Argon2id, PBKDF2). Smoke also includes special modes like “Silent Mode” (no visible status metadata to outsiders) and the ability to relay messages through network neighbors. It even supports real-time file sharing to multiple recipients (“Steamrolling”) and integration with external tools (e.g., Netcat for file transfer).
+
+Security & Encryption Technologies: Smoke was specifically developed to ensure maximum confidentiality, even in the age of quantum computers. The security architecture combines classical methods with advanced cryptographical implementations:
+
+Post-Quantum Encryption (McEliece): The core encryption algorithm is McEliece, which has been known for over 40 years and is considered resistant to all known quantum computer attacks. Smoke is the first mobile messenger worldwide to use McEliece encryption. Each user account has a key pair (private and public key)—either based on McEliece (offering four different parameter/moduli sets) or alternatively RSA. Notably, Smoke enables chats between a McEliece user and an RSA user, ensuring backward compatibility while encouraging quantum-safe communication.
+
+Symmetric Encryption and Forward Secrecy: For actual message transmission, Smoke uses authenticated encryption with changing session keys. Smoke implements a proprietary concept called "Fiasco Forwarding" (FF) to ensure perfect forward secrecy. Instead of deriving the key for each message from the previous one (as in Signal’s Double-Ratchet protocol), Smoke transmits a bundle of temporary keys ("Fiasco-Keys") per message, which are stored in the recipient’s cache and used successively. This less deterministic, more volatile approach increases security: if a single session key is compromised, it does not allow decryption of all subsequent messages.
+
+Password-Protected Chats (CSEK/JPAKE): In addition to public-key encryption, Smoke offers an option for user-defined passwords, called “Customer Supplied Encryption Key” (CSEK). Both chat partners can agree on a shared password beforehand, which they enter into the app. This enables a secure symmetric session key exchange, likely implemented via J-PAKE (Password-Authenticated Key Exchange). This provides an additional secured communication channel, even if the public-key infrastructure were compromised.
+
+Further Cryptography & Techniques: Smoke integrates numerous additional security technologies. It minimizes metadata exposure, avoiding identifiable headers and using SipHash-128 for ID generation and automatic public-key exchange. Additionally, messages are double-encrypted: first end-to-end encrypted, and second, the transport to the SmokeStack server is always TLS-encrypted.
+
+Comparison with Other Secure Messengers
+Smoke Crypto Chat competes with established secure messengers. Here’s how it compares:
+
+💬 End-to-End Encryption: Messengers like Signal, Threema, WhatsApp, and Element/Matrix provide end-to-end encrypted chats like Smoke. However, they rely on Elliptic Curve Cryptography (Curve25519, Double Ratchet), which may not be quantum-safe. Smoke uses McEliece, ensuring future-proof encryption.
+
+🔑 Forward Secrecy & Key Management: Standard messengers use a single new key per message (e.g., Signal's Double-Ratchet). Smoke goes further, sending multiple keys per message (Fiasco Forwarding), increasing security but adding complexity.
+
+📱 Identification & Privacy: WhatsApp and Signal require a phone number, which reduces privacy. Threema and Smoke use random IDs, eliminating phone number dependency.
+
+🏢 Centralization vs. Decentralization: Signal, WhatsApp, and Telegram use centralized servers. Matrix/XMPP allow federation but require complex server setup. Smoke simplifies self-hosting with an Android-based server (SmokeStack), making it easier to decentralize.
+
+Advantages:
+✔️ Post-Quantum Encryption
+✔️ No phone number required
+✔️ Self-hosted servers
+✔️ Works offline/local network
+
+Disadvantages:
+❌ Technical UI, which could have a make-over in a community fork
+❌ Lacks voice/video calls
+
+Conclusion: Smoke Crypto Chat Messenger is the worlds first mobile post-quantum secure messenger, setting and implementing the standards for encrypted communication. Smoke is best suited for general users who what to emerge with learnings and cryptographical explorings to a tech-savvy user status in cryptography and security research. It serves as an important platform, demonstrating what quantum-computer-proof secure messaging has to look like in today´s quantum era and secure messaging.
